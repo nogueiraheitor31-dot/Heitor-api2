@@ -1,7 +1,7 @@
 # API REST com Node.js, Express e MySQL — Arquitetura MVC
 
-- **Aluno:** SEU NOME AQUI
-- **Turma:** SUA TURMA AQUI
+- **Aluno:** Heitor Nogueira
+- **Turma:** 3NDN
 - **Disciplina:** Programação Web III (PW3) — Atividade Prática 02
 
 ## Arquitetura em camadas (MVC)
